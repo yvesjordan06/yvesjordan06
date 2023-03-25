@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Yaknema](https://yaknema.com) Web and mobile app.
+- 🔭 I’m currently working on [ICES Internation](https://icesinternation.com) Web and mobile app.
 - 🌱 I’m currently learning web semantics and ontologies
 - 👯 I’m looking to collaborate on building efficient software architectre
 - 🤔 I’m looking for help with ontologie and knowledge database
